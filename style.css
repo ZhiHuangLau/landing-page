@@ -37,3 +37,16 @@ button{
   background-color: #3882f6;
 }
 
+.quotesection{
+  background-color: #E5E7eb;
+}
+
+.quote{
+  text-emphasis: light;
+  font-size: 36px;
+  color: #1f2937;
+}
+
+footer{
+  background-color: #1f2937;
+}
